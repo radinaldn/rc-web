@@ -1,0 +1,14 @@
+[28-Mar-2018 02:48:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u7391689/public_html/real-count/api/koneksi.php on line 7
+[28-Mar-2018 02:48:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u7391689/public_html/real-count/api/koneksi.php on line 7
+[28-Mar-2018 02:49:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u7391689/public_html/real-count/api/koneksi.php on line 7
+[28-Mar-2018 02:49:02 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/u7391689/public_html/real-count/api/submit_suara.php on line 31
+[28-Mar-2018 02:51:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u7391689/public_html/real-count/api/koneksi.php on line 7
+[28-Mar-2018 02:51:18 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/u7391689/public_html/real-count/api/submit_suara.php on line 31
+[28-Mar-2018 02:51:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u7391689/public_html/real-count/api/koneksi.php on line 7
+[28-Mar-2018 02:51:18 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/u7391689/public_html/real-count/api/submit_suara.php on line 31
+[28-Mar-2018 04:18:31 UTC] PHP Notice:  Undefined variable: foto in /home/u7391689/public_html/api/submit_suara_get.php on line 14
+[28-Mar-2018 04:20:54 UTC] PHP Notice:  Undefined variable: foto in /home/u7391689/public_html/api/submit_suara_get.php on line 14
+[28-Mar-2018 15:11:04 UTC] PHP Warning:  chmod(): No such file or directory in /home/u7391689/public_html/api/file_upload.php on line 16
+[28-Mar-2018 15:13:30 UTC] PHP Warning:  chmod(): No such file or directory in /home/u7391689/public_html/api/file_upload.php on line 16
+[28-Mar-2018 15:32:58 UTC] PHP Warning:  chmod(): No such file or directory in /home/u7391689/public_html/api/file_upload.php on line 16
+[28-Mar-2018 16:01:05 UTC] PHP Warning:  chmod(): No such file or directory in /home/u7391689/public_html/api/file_upload.php on line 16
